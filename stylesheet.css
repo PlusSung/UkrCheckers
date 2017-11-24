@@ -1,6 +1,20 @@
-h1{
-  color: yellow;
+.table{
+  position: relative;
+  width: 480px;
+  height: 480px;
+  margin: 0 auto;
 }
-h2{
-  color: blue;
+.yellow_square{
+  background-color: #EEFF41;
+}
+.blue_squere{
+  background-color: #40C4FF;
+}
+.clear_float{
+	clear: both;
+}
+.square{
+  float: left;
+  width: 60px;
+  height: 60px;
 }
